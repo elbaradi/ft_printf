@@ -1,6 +1,6 @@
-Note: _This was my third 42 project. The code is from December 2020. My biggest learn was implementing my first jump table. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied with her permission; it perfectly describes the project._
+Note: _This was my third 42 project, completed December 2020. My biggest learn was implementing my first jump table. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied and modified with her permission; it perfectly describes the project._
 
-[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/ft_printf)
+[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/elbaradi/ft_printf)
 
 ## ft_printf
 ***The aim of this project is to recode the printf function from the C Library.***
